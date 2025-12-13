@@ -11,7 +11,7 @@ I am passionate about **automation in all forms** – from building automation s
 ## 💼 Professional Background  
 
 ### Johnson Controls  
-**Electronics Technician for Automation Technologies**  
+**Measure and Controls Technician**  
 *2020 – Present | Building Automation Systems*  
 
 **Key Responsibilities:**  
