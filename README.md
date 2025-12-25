@@ -51,11 +51,10 @@ I am passionate about **automation in all forms** – from building automation s
 
 ---
 
-## 🌟 Featured Projects  
-
-- 🚧 [MODBUS-Datapoint-Setter](https://github.com/maaxvkl/MODBUS-Datapoint-Setter)  
+## 🌟 Featured Projects   
 - 🚧 [NxEFxC-Automation-Tool](https://github.com/maaxvkl/NxEFxC-Automation-Tool)
-- 🚧 [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)    
+- 🚧 [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)
+- 🚧 [MODBUS-Datapoint-Setter](https://github.com/maaxvkl/MODBUS-Datapoint-Setter)     
 *(More projects coming soon...)*  
 
 ---
