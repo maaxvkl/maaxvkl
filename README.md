@@ -17,7 +17,7 @@ I am passionate about **automation in all forms** – from building automation s
 **Key Responsibilities:**  
 - Programming and configuration of automation controllers  
 - Commissioning and testing of building automation systems  
-- Troubleshooting, maintenance, and optimization of existing installations  
+- Troubleshooting, maintenance, and optimization of existing systems  
 - Supporting customers with system integration and performance improvements  
 - Collaboration with engineers and project teams to develop customized solutions  
 
