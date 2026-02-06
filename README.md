@@ -1,67 +1,52 @@
-# 👋 Hi, I'm Max  
+---
 
-I am an **Electrician for Automation Technologies** with more than **5 years of experience** at **Johnson Controls**, a global acting company in **Building Automation Systems**.
+## About Me
+   
+I am a Measurement and Control Technician working in building automation for more than five years , with a strong background in PLC programming and industrial bus systems (BACnet, Modbus).
 
-Alongside my professional work as a **Measure and Controls Technician**, I am developing my skills as a **Software Developer**, focusing on **Java**, and expanding into **TypeScript, JavaScript, and Python**.  
+Alongside my professional work, I use Java to develop software for system integration, automation tooling and protocol-driven solutions.
 
-I am passionate about **automation in all forms** – from building automation systems to software processes – and I enjoy building solutions that improve efficiency and reliability. 
+My interest lies in reliable, deterministic software close to real hardware, bridging classical automation with embedded-oriented software development.
+
 
 ---
 
-## 💼 Professional Background  
+## Professional Background  
 
-### Johnson Controls  
-**Measure and Controls Technician**  
-*2020 – Present | Building Automation Systems*  
+My professional background is in measurement, control and regulation technology (MSR) within building automation systems.
 
-**Key Responsibilities:**  
-- Programming and configuration of automation controllers  
-- Commissioning and testing of building automation systems  
-- Troubleshooting, maintenance, and optimization of existing systems  
-- Supporting customers with system integration and performance improvements  
-- Collaboration with engineers and project teams to develop customized solutions  
+I work with PLC-based control systems, industrial communication buses and automation infrastructure used in operational environments.
+
+My work focuses on stable automation logic, structured control concepts and the integration of field-level systems into higher-level software tools.
 
 ---
 
-## 🔧 Tools & Technologies  
+## Tools & Technologies  
 
-### Main Skills  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  
+### Automation & Control
+- PLC programming (IEC 61131-3)
+- Building Automation Systems
+- Industrial and building bus systems (e.g. BACnet)
+- Commissioning and troubleshooting in operational environments
 
-### Learning Path  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-
-### 💼 Professional (Work) Tools  
-- 🛠️ System Configuration Tool  
-- ⚡ Controller Configuration Tool  
-- 📊 Mass Changes Tool  
-- 🔎 YABE (Yet Another BACnet Explorer)  
-
-### 🎨 Hobby / Development Tools  
-- ☕ Java & Spring Boot  
-- 🟦 TypeScript (beginner)  
-- 📜 JavaScript (learning)  
-- 🐍 Python (learning)  
-- 🖥️ IntelliJ IDEA  
-- 📝 Visual Studio Code  
-- 🐙 Git & GitHub  
+### Software & System Integration
+- Java – system integration, protocol handling and automation tooling
+- C++ – embedded-oriented, deterministic and hardware-near development (learning and practical exploration)
+- Python – scripting, tooling and automation support
+- Git for version control and structured project work
 
 ---
 
-## 🌟 Featured Projects   
-- 🚧 [NxEFxC-Automation-Tool](https://github.com/maaxvkl/NxEFxC-Automation-Tool)
-- 🚧 [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)
-- 🚧 [MODBUS-Datapoint-Setter](https://github.com/maaxvkl/MODBUS-Datapoint-Setter)     
+## Featured Projects   
+-  [NxEFxC-Automation-Tool](https://github.com/maaxvkl/NxEFxC-Automation-Tool)
+-  [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)
+-  [MODBUS-Datapoint-Setter](https://github.com/maaxvkl/MODBUS-Datapoint-Setter)     
 *(More projects coming soon...)*  
 
 ---
 
-## 🎯 Interests  
+## Interests  
 
-- Software automation & process optimization  
-- Smart building technologies & IoT  
-- Exploring new programming languages and frameworks  
-- Continuous learning and personal growth  
+- Embedded-oriented software development and firmware concepts
+- Exploring hardware-near programming beyond classical PLC systems
+- Bridging automation engineering with embedded system development
