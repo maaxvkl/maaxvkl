@@ -32,7 +32,7 @@ My work focuses on stable automation logic, structured control concepts and the 
 ### Software & System Integration
 - Java – system integration, protocol handling and automation tooling
 - C++ – embedded-oriented, deterministic and hardware-near development (learning and practical exploration)
-- Python – scripting, tooling and automation support
+- Python – firmware testing, scripting, tooling and automation support
 - Git for version control and structured project work
 
 ---
