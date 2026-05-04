@@ -37,10 +37,10 @@ My work focuses on stable automation logic, structured control concepts and the 
 
 ---
 
-## Featured Projects   
+## Featured Projects
+-  [BACnetAlarmScanner](https://github.com/maaxvkl/BACnetAlarmScanner)
 -  [NxEFxC-Automation-Tool](https://github.com/maaxvkl/NxEFxC-Automation-Tool)
--  [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)
--  [MODBUS-Datapoint-Setter](https://github.com/maaxvkl/MODBUS-Datapoint-Setter)     
+-  [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)    
 *(More projects coming soon...)*  
 
 ---
