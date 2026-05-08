@@ -2,7 +2,7 @@
 
 ## About Me
    
-I am a Measurement and Control Technician with more than ten years of experience in building automation and industrial communication systems such as **BACnet** and **Modbus**.
+I am a Automation & Integration Engineer with more than ten years of experience in building automation and industrial communication systems such as **BACnet** and **Modbus**.
 
 Alongside my professional work, I develop software focused on **system integration**, **protocol-based communication**, **automation tooling** and **technical workflows** using Java and related technologies.
 
