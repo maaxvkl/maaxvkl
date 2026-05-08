@@ -45,15 +45,15 @@ My focus is on structured problem solving, reliable system behavior, troubleshoo
 ## Featured Projects
 -  [BACnetAlarmScanner](https://github.com/maaxvkl/BACnetAlarmScanner)
    
-   Desktop application for BACnet network discovery, alarm analysis and structured export workflows.
+   Java desktop application for BACnet network discovery, alarm analysis and structured export workflows.
    
 -  [NxEFxC-Automation-Tool](https://github.com/maaxvkl/NxEFxC-Automation-Tool)
 
-   Automation tool focused on structured workflows and operational system support.
+   Java-based autmation tool for supporting structured engineering workflows and reducing repetitive configuration tasks
       
 -  [VirtualDatapointGenerator](https://github.com/maaxvkl/VirtualDatapointGenerator)
 
-   Tool for generating and managing virtual datapoints within automation environments.
+   Java-based tool for generating and managing virtual datapoints within automation environments.
 
       
 *(More projects coming soon...)*  
