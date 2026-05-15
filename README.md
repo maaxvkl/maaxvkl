@@ -25,20 +25,26 @@ My focus is on structured problem solving, reliable system behavior, troubleshoo
 
 ## Software & Integration
 
-- **Java** – system integration, protocol handling and automation tooling
+- **Java & Spring Boot** – system integration, protocol handling and automation tooling
 - **REST APIs** and API-based workflows
-- **Python** – scripting, automation support and tooling
-- **Git** for version control and structured project work
-- **Postman** for API testing and debugging
+- **SQL & Databases** – scripting, automation support and tooling
+- **Git & GitHub** for version control and structured project work
 - **JavaFX** for desktop application development
+
+## Infrastructure & Networking
+
+- Linux/SSH – Linux server administration and remote access via SSH
+- TCP/IP - Understanding of IP networking and client-server communication
+- Network Troubleshooting – Troubleshooting of network and connectivity related issues
+- Docker (Basic) - Containerization and Docker Compose usage
+- Postman - Testing and debugging REST APIs and HTTP requests.
 
 ## Automation & Control
 
-- Building Automation Systems
-- BACnet and Modbus communication
 - PLC programming according to IEC 61131-3
+- BACnet and Modbus communication
+- Building Automation Systems
 - Commissioning and troubleshooting in operational environments
-
 
 ---
 
